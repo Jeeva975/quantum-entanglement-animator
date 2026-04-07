@@ -4,7 +4,7 @@
 A visual simulator for quantum protocols and algorithms designed for **QTHack04**. Features **Bloch sphere animations** and **quantum state evolution visualization**. Visualize and simulate **quantum entanglement** between multiple qubits. Watch how entangled particles behave in real-time, explore Bell states, and understand quantum correlations through interactive animations.
 **Features:** Interactive Bloch sphere, measurement probability plots, entanglement visualization.
 
-## 🚀 Local Setup Instructions
+## Local Setup Instructions
 
 ### 1. Prerequisites
 Before running this project, ensure you have the following installed on your system:
@@ -24,7 +24,7 @@ It's highly recommended to use a Python virtual environment to isolate dependenc
 python -m venv venv
 ```
 
-Activate virtual environment:
+Activate virtual environment:\
 on GNU/Linux or macOS:
 ```bash
 source venv/bin/activate
@@ -45,12 +45,11 @@ make install
 ```bash
 make run
 ```
+\
 Finallly open 
 http://localhost:5173 in your browser
 
-###
-
-<h3 align="left">🛠 Languages and tools used to complete this project:</h3>
+## Languages and tools used to complete this project:</h3>
 
 ###
 
